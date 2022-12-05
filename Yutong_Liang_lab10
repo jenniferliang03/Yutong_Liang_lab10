@@ -12,6 +12,8 @@
     <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
     <title>Document</title>
 </head>
+
+
 <style>
     .design{
         padding-left: 15px;
@@ -19,6 +21,8 @@
         padding-right: 50%;
     }
 </style>
+
+
 <body>
     <h1>Task1</h1>
     <p>Enter 5 grades (each out of 100) into the following form:</p>
@@ -174,7 +178,7 @@
                   }
 
 
-                  
+
                   console.log(ave)
         arr.sort();
         ave = ave -arr[0];
